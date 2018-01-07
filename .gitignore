@@ -1,0 +1,4 @@
+build
+build-server
+node_modules
+.vscode
